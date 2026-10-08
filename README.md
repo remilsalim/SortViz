@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer Pro ❤️
+# Sorting Algorithm Visualizer ❤️
 
 A high-performance, interactive React application that visually demonstrates the internal mechanics of various sorting algorithms. Designed for precision, clarity, and portfolio presentation.
 
